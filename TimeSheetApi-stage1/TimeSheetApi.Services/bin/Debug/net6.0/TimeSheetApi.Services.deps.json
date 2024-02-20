@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TimeSheetApi.Services/1.0.0": {
+        "dependencies": {
+          "TimeSheetApi.Models": "1.0.0"
+        },
+        "runtime": {
+          "TimeSheetApi.Services.dll": {}
+        }
+      },
+      "TimeSheetApi.Models/1.0.0": {
+        "runtime": {
+          "TimeSheetApi.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TimeSheetApi.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TimeSheetApi.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

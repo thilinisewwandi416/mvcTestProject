@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ml2QckQ4fxQ8iqSJ+iU4iQJ9Dw3Ms0Ambe1OM7OFFsbxP61KxloCGzm9jfcZXaA6pFNyMb+QfCkN8y28tcG0Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\TimeSheetApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thili\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\thili\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\thili\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\thili\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\thili\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\thili\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

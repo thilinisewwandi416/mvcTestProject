@@ -1,0 +1,15 @@
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\bin\Debug\net6.0\TimeSheetApi.Services.deps.json
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\bin\Debug\net6.0\TimeSheetApi.Services.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\bin\Debug\net6.0\TimeSheetApi.Services.pdb
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\bin\Debug\net6.0\TimeSheetApi.Models.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\bin\Debug\net6.0\TimeSheetApi.Models.pdb
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.csproj.AssemblyReference.cache
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.AssemblyInfoInputs.cache
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.AssemblyInfo.cs
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.csproj.CoreCompileInputs.cache
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeShee.EDA021EB.Up2Date
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\refint\TimeSheetApi.Services.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\TimeSheetApi.Services.pdb
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Services\obj\Debug\net6.0\ref\TimeSheetApi.Services.dll

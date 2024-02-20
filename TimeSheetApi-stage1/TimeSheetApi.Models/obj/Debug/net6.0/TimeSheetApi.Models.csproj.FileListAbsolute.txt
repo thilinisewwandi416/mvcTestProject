@@ -1,0 +1,11 @@
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\bin\Debug\net6.0\TimeSheetApi.Models.deps.json
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\bin\Debug\net6.0\TimeSheetApi.Models.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\bin\Debug\net6.0\TimeSheetApi.Models.pdb
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.AssemblyInfoInputs.cache
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.AssemblyInfo.cs
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\refint\TimeSheetApi.Models.dll
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\TimeSheetApi.Models.pdb
+C:\Users\thili\Downloads\TimeSheetApi-stage1\TimeSheetApi-stage1\TimeSheetApi.Models\obj\Debug\net6.0\ref\TimeSheetApi.Models.dll

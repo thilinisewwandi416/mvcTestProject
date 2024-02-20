@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|solutionrelative:timesheetapi\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.services\\iempservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|solutionrelative:timesheetapi.services\\iempservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|solutionrelative:timesheetapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EEFC03-F827-43BA-8BC2-DE508B56EA96}|TimeSheetApi.Models\\TimeSheetApi.Models.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EEFC03-F827-43BA-8BC2-DE508B56EA96}|TimeSheetApi.Models\\TimeSheetApi.Models.csproj|solutionrelative:timesheetapi.models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{252835D8-CC43-4E7E-B75C-9F9EA48ABB0B}|TimeSheetApi\\TimeSheetApi.csproj|solutionrelative:timesheetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.services\\idepserviserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|solutionrelative:timesheetapi.services\\idepserviserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07EEFC03-F827-43BA-8BC2-DE508B56EA96}|TimeSheetApi.Models\\TimeSheetApi.Models.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07EEFC03-F827-43BA-8BC2-DE508B56EA96}|TimeSheetApi.Models\\TimeSheetApi.Models.csproj|solutionrelative:timesheetapi.models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.services\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|solutionrelative:timesheetapi.services\\empservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|c:\\users\\thili\\downloads\\timesheetapi-stage1\\timesheetapi-stage1\\timesheetapi.services\\depservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37689569-FB69-4816-809C-5A9739567E74}|TimeSheetApi.Services\\TimeSheetApi.Services.csproj|solutionrelative:timesheetapi.services\\depservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Controllers\\DepartmentsController.cs*",
+              "RelativeToolTip": "TimeSheetApi\\Controllers\\DepartmentsController.cs*",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwB0AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:37:31.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Program.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi\\Program.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Program.cs",
+              "RelativeToolTip": "TimeSheetApi\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:17:38.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmpserviceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\IEmpserviceRepository.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Services\\IEmpserviceRepository.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\IEmpserviceRepository.cs",
+              "RelativeToolTip": "TimeSheetApi.Services\\IEmpserviceRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:05:51.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "TimeSheetApi\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:37:32.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Models\\Department.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Models\\Department.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Models\\Department.cs",
+              "RelativeToolTip": "TimeSheetApi.Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:25:43.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Models\\Employee.cs",
+              "RelativeToolTip": "TimeSheetApi.Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:23:46.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDepserviseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\IDepserviseRepository.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Services\\IDepserviseRepository.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\IDepserviseRepository.cs",
+              "RelativeToolTip": "TimeSheetApi.Services\\IDepserviseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T08:03:00.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepService.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\DepService.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Services\\DepService.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\DepService.cs",
+              "RelativeToolTip": "TimeSheetApi.Services\\DepService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:51:39.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpService.cs",
+              "DocumentMoniker": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\EmpService.cs",
+              "RelativeDocumentMoniker": "TimeSheetApi.Services\\EmpService.cs",
+              "ToolTip": "C:\\Users\\thili\\Downloads\\TimeSheetApi-stage1\\TimeSheetApi-stage1\\TimeSheetApi.Services\\EmpService.cs",
+              "RelativeToolTip": "TimeSheetApi.Services\\EmpService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:51:30.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
